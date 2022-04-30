@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const fs = require('fs') ;
-const filePath = 'C:/Users/Aditi/Desktop/NodeJs Training/data.json';
+const filePath = 'C:/ /data.json';
 
 // sends all user data 
 router.get('/users', (req, res, next) => {
