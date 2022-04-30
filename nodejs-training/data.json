@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kranti",
+    "id": 1,
+    "address": "abc"
+  },
+  {
+    "name": "Ragini",
+    "id": 2,
+    "address": "efgh"
+  },
+  {
+    "name": "Arun",
+    "id": 3,
+    "address": "ijk"
+  },
+  {
+    "name": "Jaya",
+    "id": 4,
+    "address": "lmno"
+  },
+  {
+    "name": "Vivek",
+    "id": 5,
+    "address": "pqr"
+  },
+  {
+    "name": "Shailaja",
+    "id": 6,
+    "address": "stu"
+  }
+]
